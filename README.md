@@ -1,0 +1,1 @@
+This repository demonstrates a common but often overlooked error in web development: accessing DOM elements before they're fully loaded.  The `bug.html` file shows the problematic code, where JavaScript tries to interact with an element that might not exist yet.  The `solution.js` file presents a robust solution to avoid this error.
