@@ -1,0 +1,1 @@
+<div id="myElement"></div><script>document.addEventListener('DOMContentLoaded', function() {  const element = document.getElementById('myElement');  if (element) {  // Proceed with your code that manipulates 'element'    element.innerHTML = 'Element found!';  } else {  console.error('Element not found!');  } });</script>
